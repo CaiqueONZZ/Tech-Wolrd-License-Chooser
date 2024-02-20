@@ -6,4 +6,4 @@
 
 # Note
 
-``The license name will appear as a code, Rename it if you want.`` 
+``The license name will appear as a code, Rename it license.txt or edit to copy the text`` 
