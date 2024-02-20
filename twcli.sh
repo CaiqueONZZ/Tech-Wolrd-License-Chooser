@@ -17,11 +17,11 @@ fi
 case $version in
     "1.0")
         echo "Installing Tech World version 1.0"
-        curl -fsSL https://pastebin.com/raw/WhwrYkBX | bash
+        curl -o https://pastebin.com/raw/WhwrYkBX | bash
         ;;
     "2.0")
         echo "Installing Tech World version 2.0"
-        curl -fsSL https://pastebin.com/raw/ad35kbXn | bash
+        curl -o https://pastebin.com/raw/ad35kbXn | bash
         ;;
     *)
         echo "Unsupported version. Supported versions: 1.0, 2.0"
