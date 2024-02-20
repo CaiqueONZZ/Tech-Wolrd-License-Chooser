@@ -1,6 +1,6 @@
 # Versions
-``1.0``
-``2.0``
+`1.0`
+`2.0`
 
 ```git clone https://github.com/CaiqueONZZ/Tech-Wolrd-License-Chooser.git```
 
